@@ -13,9 +13,9 @@
 
 >👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 > 
->🎓 Graduando em Tecnologia da Informação- Faculdade Anhanguera 
+>🎓 Graduada em Tecnologia da Informação- Faculdade Anhanguera.
 >
->🌱 Aprendendo mais sobre: Git e Github, HTML, CSS, JavaScript
+>🌱 Aprendendo mais sobre: Git e Github, HTML, CSS, JavaScript, React, Node.js, Angular
 
  <br/>
 
